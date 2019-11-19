@@ -11,7 +11,7 @@ public class DemoautobuildApplication {
 	
 	@RequestMapping("/")
 	public String home(){
-		return "Hello docker world!";
+		return "Hello docker world!!!";
 	}
 
 	public static void main(String[] args) {
