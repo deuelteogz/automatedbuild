@@ -11,7 +11,7 @@ public class DemoautobuildApplication {
 	
 	@RequestMapping("/")
 	public String home(){
-		return "Hello wold";
+		return "Hello world!";
 	}
 
 	public static void main(String[] args) {
